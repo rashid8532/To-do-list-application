@@ -12,7 +12,7 @@ A simple to-do list web app to manage daily tasks.
 - CSS
 - JavaScript
 
-## 📸 Screenshot
+
 ## 📸 Screenshot
 
 ![To-Do App](Screenshot.png.png)
