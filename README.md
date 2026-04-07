@@ -13,7 +13,9 @@ A simple to-do list web app to manage daily tasks.
 - JavaScript
 
 ## 📸 Screenshot
-Screenshot.png
+## 📸 Screenshot
+
+![To-Do App](Screenshot.png.png)
 
 ## ▶️ How to Run
 1. Download the project
