@@ -17,6 +17,9 @@ A simple to-do list web app to manage daily tasks.
 
 ![To-Do App](Screenshot.png.png)
 
+---
+
 ## ▶️ How to Run
 1. Download the project
 2. Open index.html in browser
+   
